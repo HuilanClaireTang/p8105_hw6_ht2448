@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510880134102.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3576026586",
+    "id" : "51C7E4E9",
+    "lastKnownWriteTime" : 1510881456,
+    "last_content_update" : 1510881456982,
+    "path" : "~/Documents/data science R/p8105_hw6_ht2448/p8105_hw6_ht2448.Rmd",
+    "project_path" : "p8105_hw6_ht2448.Rmd",
+    "properties" : {
+        "cursorPosition" : "11,90",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

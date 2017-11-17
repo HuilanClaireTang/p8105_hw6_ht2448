@@ -1,0 +1,12 @@
+---
+title: "P8105_hw6_ht2448"
+output: html_document
+---
+
+Name:Huilan Tang Uni:ht2448
+I worked with Candace Haghighi (UNI: cbh2134)
+
+### A link to the website produced in Problem 3.
+
+Here is the website for this Homework. It includes a landing page that describes the data we used and any relevant processing steps. Our landing page also includes links to the dashboard from Problem 1 (hosted as part of the website), to the dashboard from Problem 2, and to the GitHub repo(s) that underly our dashboards and the webpage.
+Our website Link is [here](https://candacehaghighi.github.io/p8105_hw6_problem1/index.html).
